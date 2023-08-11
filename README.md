@@ -6,7 +6,7 @@ The purpose of this project is to develop a machine learning model that can accu
 Five Jupyter notebooks are presented, covering the following stages of analysis:<br>
 <pre>
 <b>Stage 1</b>         Data Exploration<br>
-<b>Stage 2</b>         Data Extraction, Transformation, and Loading<br>
+<b>Stage 2</b>         Data Extraction and Cleaning<br>
 <b>Stage 3</b>         Feature Engineering<br>
 <b>Stages 4 and 5</b>  Model Defintion and Training<br>
 <b>Stage 6</b>         Model Evaluation<br>
